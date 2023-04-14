@@ -58,7 +58,7 @@ const Header = props => {
           <Link to="/">
             <img
               className="website-logo"
-              src="https://res.cloudinary.com/dpjowvn70/image/upload/v1681447339/E_crenz_2_ka9efz.png"
+              src="https://res.cloudinary.com/dpjowvn70/image/upload/v1681483225/E_crenz_2_t40llp.png"
               alt="website logo"
             />
           </Link>

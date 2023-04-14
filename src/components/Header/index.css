@@ -59,7 +59,7 @@
 
 @media screen and (min-width: 768px) {
   .website-logo {
-    width: 165px;
+    width: 135px;
   }
 }
 
@@ -71,7 +71,7 @@
   flex: 1;
   list-style-type: none;
   margin-top: 0px;
-  margin-bottom: 20px;
+  margin-bottom: 12px;
 }
 
 @media screen and (max-width: 767px) {

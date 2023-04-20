@@ -124,7 +124,7 @@ class LoginForm extends Component {
     return (
       <div className="login-form-container">
         <img
-          src="https://res.cloudinary.com/dpjowvn70/image/upload/v1681447339/E_crenz_2_ka9efz.png"
+          src="https://res.cloudinary.com/dpjowvn70/image/upload/v1681483225/E_crenz_2_t40llp.png"
           className="login-website-logo-mobile-img"
           alt="website logo"
         />
@@ -135,7 +135,7 @@ class LoginForm extends Component {
         />
         <form className="form-container" onSubmit={this.submitForm}>
           <img
-            src="https://res.cloudinary.com/dpjowvn70/image/upload/v1681447339/E_crenz_2_ka9efz.png"
+            src="https://res.cloudinary.com/dpjowvn70/image/upload/v1681483225/E_crenz_2_t40llp.png"
             className="login-website-logo-desktop-img"
             alt="website logo"
           />
